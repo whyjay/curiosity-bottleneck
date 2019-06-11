@@ -1,0 +1,18 @@
+# For CUDA <9.0
+#tensorflow-gpu==1.7.0
+# For CUDA 10.0
+tensorflow-gpu==1.13.1
+cmake==3.13.2.post1
+atari_py
+gym[atari]
+mpi4py==3.0.0
+opencv-python==3.4.4.19
+joblib
+psutil
+tqdm
+dill
+progressbar2
+cloudpickle
+click
+simplejson
+imageio
