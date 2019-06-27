@@ -1,5 +1,5 @@
 ## Curiosity-Bottleneck: Exploration by Distilling Task-Specific Novelty ##
-
+### Accepted to ICML 2019
 Youngjin Kim, Wontae Nam*, Hyunwoo Kim*, Jihoon Kim, Gunhee Kim<br/>
 &#42;equal contribution
 
@@ -13,7 +13,7 @@ pip install -r requirements
 
 #### Run
 
-The following command should train an PPO agent with Curiosity-Bottleneck on Gravitar
+The following command should train a PPO agent with Curiosity-Bottleneck on Gravitar
 ```bash
 python run_atari.py
 ```
