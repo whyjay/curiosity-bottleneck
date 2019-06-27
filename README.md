@@ -1,27 +1,33 @@
-## Curiosity-Bottleneck: Exploration by Distilling Task-Specific Novelty ##
-### Accepted to ICML 2019
-Youngjin Kim, Wontae Nam*, Hyunwoo Kim*, Jihoon Kim, Gunhee Kim<br/>
-&#42;equal contribution
+# Curiosity-Bottleneck: <br/>Exploration by Distilling Task-Specific Novelty
 
-Vision and Learning Lab., Seoul National University<br/>
-Clova, Naver
+This project hosts the code for our [ICML 2019 paper](http://proceedings.mlr.press/v97/kim19c.html). <br/>
 
-#### Installation
+![Model](https://github.com/skywalker023/skywalker023.github.io/blob/master/images/thumbs/icml_model.png?raw=true)
+
+
+
+## Authors
+[Youngjin Kim](http://vision.snu.ac.kr/people/youngjinkim.html), [Wontae Nam](https://www.linkedin.com/in/daniel-w-nam/)\*, [Hyunwoo Kim](https://skywalker023.github.io)\*, Jihoon Kim, [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/) <sub><sup>(&#42;equal contribution)</sup></sub> <br/>
+
+[Vision and Learning Lab.](http://vision.snu.ac.kr) @ Computer Science and Engineering, Seoul National University<br/>
+[Clova](https://clova.ai/en/research/research-area-detail.html?id=0), NAVER
+
+### Installation
 ```
 pip install -r requirements
 ```
 
-#### Run
+### Run
 
-The following command should train a PPO agent with Curiosity-Bottleneck on Gravitar
+The following command should train a PPO agent with Curiosity-Bottleneck on Gravitar.
 ```bash
 python run_atari.py
 ```
 
-#### Acknowledgements
-This code is based on [RND](https://github.com/openai/random-network-distillation) implementation by Yuri Burda
+### Acknowledgements
+This code is based on the [RND](https://github.com/openai/random-network-distillation) implementation by Yuri Burda.
 
-#### Citation
+### Citation
 
 ```
 @inproceedings{
