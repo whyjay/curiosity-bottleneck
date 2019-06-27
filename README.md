@@ -2,7 +2,7 @@
 
 This project hosts the code for our [ICML 2019 paper](http://proceedings.mlr.press/v97/kim19c.html). <br/>
 
-![Model](https://github.com/skywalker023/skywalker023.github.io/blob/master/images/thumbs/icml_model.png?raw=true)
+![Model](https://github.com/whyjay/curiosity-bottleneck/blob/master/assets/icml_model.png?raw=true)
 
 
 
