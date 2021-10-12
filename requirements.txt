@@ -6,7 +6,7 @@ cmake==3.13.2.post1
 atari_py
 gym[atari]
 mpi4py==3.0.0
-opencv-python==3.4.4.19
+opencv-python==3.4.7.28
 joblib
 psutil
 tqdm
