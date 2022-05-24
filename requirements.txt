@@ -1,7 +1,7 @@
 # For CUDA <9.0
 #tensorflow-gpu==1.7.0
 # For CUDA 10.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==2.6.4
 cmake==3.13.2.post1
 atari_py
 gym[atari]
